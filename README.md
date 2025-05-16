@@ -18,7 +18,6 @@ EDA-and-customer-segmentation/
 ├── README.md # Project overview and instructions
 └── requirements.txt # Python dependencies
 
-
 ## 📊 Techniques Used
 
 - Data Cleaning and Feature Engineering
