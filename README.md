@@ -9,15 +9,6 @@ This project presents an end-to-end exploratory data analysis (EDA) and customer
 - Use unsupervised learning (e.g., K-Means clustering) to segment customers.
 - Visualize findings and interpret cluster characteristics for actionable insights.
 
-## 📁 Project Structure
-
-EDA-and-customer-segmentation/
-│
-├── data/ # Raw  datasets
-├── notebooks/ # Jupyter notebooks with EDA and clustering steps
-├── README.md # Project overview and instructions
-└── requirements.txt # Python dependencies
-
 ## 📊 Techniques Used
 
 - Data Cleaning and Feature Engineering
